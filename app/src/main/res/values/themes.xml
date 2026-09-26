@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Medaxis" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#FFF7F4EE</item>
+        <item name="android:navigationBarColor">#FFF7F4EE</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

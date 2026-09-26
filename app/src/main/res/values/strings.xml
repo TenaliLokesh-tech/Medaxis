@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Medaxis</string>
+    <string name="home_title">How do you feel?</string>
+    <string name="home_hint_simple">Type or speak. We will help you next.</string>
+    <string name="home_placeholder">Tell us what hurts</string>
+    <string name="home_voice_prompt">Say how you feel</string>
+    <string name="home_search_cd">Search</string>
+    <string name="home_mic_cd">Speak</string>
+    <string name="home_input_cd">Type how you feel</string>
+    <string name="emergency_title">Medical Emergency Detected</string>
+    <string name="emergency_message">Do not wait for an app check. Call 108 now. Help will come to you.</string>
+    <string name="emergency_call_button">Call 108 Ambulance Now</string>
+    <string name="emergency_go_back">Go Back</string>
+    <string name="emergency_warning_cd">Warning</string>
+    <string name="home_checking">Checking. Please wait.</string>
+    <string name="triage_title">Possible causes</string>
+    <string name="triage_subtitle">These are guesses, not a doctor visit. The top 3 matches:</string>
+    <string name="triage_match">Match: %1$d%%</string>
+    <string name="triage_find_doctors">Find Nearby Doctors</string>
+    <string name="directory_title">Nearby Doctors &amp; Hospitals</string>
+    <string name="back">Back</string>
+    <string name="call_clinic">Call Clinic</string>
+    <string name="settings_cd">Settings</string>
+    <string name="settings_title">Settings</string>
+    <string name="clear_profile">Clear User Profile</string>
+    <string name="onboarding_title">Welcome to Medaxis</string>
+    <string name="onboarding_name_label">Your Name</string>
+    <string name="onboarding_phone_label">Phone Number</string>
+    <string name="onboarding_continue">Continue</string>
+</resources>
